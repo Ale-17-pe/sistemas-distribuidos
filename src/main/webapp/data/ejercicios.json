@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "Press de banca",
+    "grupoMuscular": "Pecho",
+    "descripcion": "Ejercicio para el desarrollo del pectoral mayor.",
+    "duracion": "4 sets de 10 repeticiones"
+  },
+  {
+    "nombre": "Sentadillas",
+    "grupoMuscular": "Piernas",
+    "descripcion": "Ejercicio compuesto para tren inferior.",
+    "duracion": "4 sets de 12 repeticiones"
+  }
+]
