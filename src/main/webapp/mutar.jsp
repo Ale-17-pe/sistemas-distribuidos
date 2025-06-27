@@ -16,7 +16,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>AresFitness</title>
-        <link rel="stylesheet" href="Css/planes.css">
+        <link rel="stylesheet" href="Css/mutar.css">
         <link rel="icon" href="Imagenes/logo.png">
         <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
     </head>
